@@ -2,7 +2,11 @@
 
 Lease Easy is an AI powered website that helps in summarizing the complex and critical clauses related to rental agreements.
 
-Steps to run the project:   
+Steps to run the project
+
+    Run the requirements.txt file : pip -r requirements.txt
+    Run the main.py file : uvicorn app:app --reload
+
 
 Technologies Used:
 
